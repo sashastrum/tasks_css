@@ -1,0 +1,21 @@
+a {
+	/*border: 1px solid blue;*/
+
+}
+li {
+	list-style-type: none;
+	border: 1px solid blue;
+	width: 200px;
+	padding: 10px;
+	margin: 5px;
+	
+}
+a:link , a:visited {
+	color: blue;
+	text-decoration: none;
+}
+a:hover {
+	/*color: red;*/
+	/*font-size: 14px;*/
+	font-weight: bold;
+}
