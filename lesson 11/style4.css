@@ -1,0 +1,43 @@
+li {
+    list-style-type: none;
+    border: 1px solid steelblue;
+    width: 200px;
+    /*padding: 10px 2px;*/
+    margin: 5px;
+    line-height: 10pt;
+    
+}
+a:link , a:visited {
+    color: white;
+    text-decoration: none;
+    display: block;
+    background-color: steelblue;
+    padding: 10px ;
+    font-weight: bold;
+    background-image: none;
+}
+a:hover {
+    color: blue;
+    background-color: white;
+    font-weight: bold;
+}
+a:link.aaa , a:visited.aaa {
+    color: blue;
+    background-color: white;
+}
+img {
+    width: 20px;
+    height: 20px;
+    float: right;
+}
+img.bbb {
+    opacity: 0;
+}
+img:hover.bbb {
+    opacity: 1;
+}
+
+/*a {
+    display: block;
+    background-color: grey;
+    padding: 10px ;*/
