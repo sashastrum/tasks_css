@@ -1,0 +1,17 @@
+li {
+    list-style-type: none;
+    border: 1px solid steelblue;
+    /*width: 200px;*/
+    padding: 5px 2px;
+    margin: 5px;
+    /*line-height: 10pt;*/
+    float: left;
+}
+
+a:link , a:visited {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
