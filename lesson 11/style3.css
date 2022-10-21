@@ -1,0 +1,26 @@
+li {
+	list-style-type: none;
+	border: 1px solid black;
+	width: 200px;
+	/*padding: 10px 2px;*/
+	margin: 5px;
+	line-height: 10pt;
+	
+}
+a:link , a:visited {
+	color: white;
+	text-decoration: none;
+	display: block;
+	background-color: dimgrey;
+	padding: 10px ;
+	font-weight: bold;
+}
+a:hover {
+	color: black;
+	background-color: white;
+	font-weight: bold;
+}
+/*a {
+	display: block;
+	background-color: grey;
+	padding: 10px ;*/
