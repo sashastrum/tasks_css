@@ -1,10 +1,7 @@
 li {
     list-style-type: none;
     border: 1px solid steelblue;
-    /*width: 200px;*/
-    padding: 5px 2px;
-    /*margin: 5px;
-    line-height: 10pt;*/
+    line-height: 20pt;
     display: inline-block;
 }
 
@@ -14,13 +11,17 @@ a:link , a:visited {
 }
 a:hover {
     color: white;
-    /*font-weight: bold;*/
     background-color: dimgrey;
-    /*display: block;
-    border: 1px solid black;*/
-    padding: 5px 2px;
-
-}
-a {
     display: block;
+    border: 1px solid black;
+    line-height: 20pt;
 }
+a:link.bbb , a:visited.bbb {
+    color: white;
+    text-decoration: none;
+    background-color: dimgrey;
+    border: 1px solid black;
+    display: block;
+    line-height: 20pt;
+}
+
