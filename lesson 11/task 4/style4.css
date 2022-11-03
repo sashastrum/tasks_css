@@ -1,44 +1,33 @@
-li {
+#menu4 ul {
     list-style-type: none;
-    border: 1px solid steelblue;
     width: 200px;
-    /*padding: 10px 2px;*/
-    margin: 5px;
-    line-height: 10pt;
+}
+#menu4 li {
+    margin-bottom: 5px;
     
 }
-a:link , a:visited {
+#menu4 a:link , #menu4 a:visited {
     color: white;
     text-decoration: none;
     display: block;
+    font-weight: 13px Arial;
+    border: 1px solid #0081E7;
     background-color: steelblue;
-    padding: 10px ;
+    padding: 0px 5px ;
+    line-height: 30px;
     font-weight: bold;
-    background-image: none;
 }
-a:hover {
+#menu4 a:hover , #menu4 a.active {
     color: blue;
     background-color: white;
     font-weight: bold;
 }
-a:link.aaa , a:visited.aaa {
+#menu4 a:link.aaa , a:visited.aaa {
     color: blue;
-    background-color: white;
+    background: #fff url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchnfin49HDFibxQ0ncbMSnV2_riKVcMxlrg&usqp=CAU") no-repeat 90% center;
 }
 img {
     width: 20px;
     height: 20px;
     float: right;
 }
-img.bbb {
-    opacity: 0;
-}
-img:hover.bbb {
-    opacity: 1;
-}
-
-/*a {
-    display: block;
-    background-color: grey;
-    padding: 10px ;*/
-  
