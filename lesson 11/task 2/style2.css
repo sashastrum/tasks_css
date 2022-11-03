@@ -5,7 +5,7 @@
 
 }
 #menu2 li {
-	margin-bottom: 5px;
+	/*margin : 10px;*/
 	
 }
  #menu2 a:link , #menu2 a:visited {
@@ -16,6 +16,7 @@
 	display: block;
 	padding: 0px 5px;
 	line-height: 30px;
+	margin: 5px;
 }
  #menu2 a:hover {
 	font-weight: bold;
