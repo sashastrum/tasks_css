@@ -1,0 +1,49 @@
+#menu7 ul {
+	list-style-type: none;
+}
+#menu7 li {
+	display: inline-block;
+	margin-right: 13px;
+}
+#menu7 a {
+	display: block;
+	padding: 30px;
+}
+#menu7 a:link , #menu7 a:visited {
+	text-decoration: none;
+	color: grey;
+}
+#menu7 a:hover {
+	color: blue;
+}
+#menu7 .l1 a:link , #menu7 .l1 a:visited {
+	background: url("C:\Users\Sasha\Desktop\HTML start\1.png") no-repeat top center;
+}
+#menu7 .l2 a:link , #menu7 .l2 a:visited {
+	background: url("C:\Users\Sasha\Desktop\HTML start\2.png") no-repeat top center;
+}
+#menu7 .l3 a:link , #menu7 .l3 a:visited {
+	background: url("C:\Users\Sasha\Desktop\HTML start\3.png") no-repeat top center;
+}
+#menu7 .l4 a:link , #menu7 .l4 a:visited {
+	background: url("C:\Users\Sasha\Desktop\HTML start\4.png") no-repeat top center;
+}
+#menu7 .l5 a:link , #menu7 .l5 a:visited {
+	background: url("C:\Users\Sasha\Desktop\HTML start\5.png") no-repeat top center;
+}
+#menu7 .l1 a:hover {
+	background: url("C:\Users\Sasha\Desktop\HTML start\1.png") no-repeat top center;
+}
+#menu7 .l2 a:hover {
+	background: url("C:\Users\Sasha\Desktop\HTML start\2.png") no-repeat top center;
+}
+#menu7 .l3 a:hover {
+	background: url("C:\Users\Sasha\Desktop\HTML start\3.png") no-repeat top center;
+}
+#menu7 .l4 a:hover {
+	background: url("C:\Users\Sasha\Desktop\HTML start\4.png") no-repeat top center;
+}
+#menu7 .l5 a:hover {
+	background: url("C:\Users\Sasha\Desktop\HTML start\5.png") no-repeat top center;
+}
+	         
