@@ -1,0 +1,29 @@
+#menu8 {
+	widths: 100%;
+	background-color: yellow;
+	font-family: Arial;
+}
+#menu8 ul {
+	list-style-type: none;
+	margin-left: 13px;
+	padding: 0px;
+}
+#menu8 li {
+	display: inline-block;
+}
+#menu8 a:link , #menu8 a:visited {
+	color: white;
+	text-decoration: none;
+	background-color: yellow;
+	display: block;
+	padding: 0px 13px;
+	line-height: 35px;
+	text-align: center;
+	font-size: 13px;
+
+}
+#menu8 a:hover {
+	color: white;
+	text-decoration: none;
+	background-color: orange;
+}
