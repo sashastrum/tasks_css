@@ -1,0 +1,42 @@
+#menu9 th {
+	border-bottom: 1px solid black ;
+
+}
+#menu9 a {
+	font: 12px Arial;
+}
+#menu9 {
+	width: 150px;
+	margin: 20px 0px;
+}
+#menu9 table {
+	width: 100%;
+	height: 100%;
+}
+#menu9 td {
+	text-align: center;
+}
+#menu9 a:link , #menu9 a:visited {
+	color: dimgrey;
+	text-decoration: none;
+}
+#menu9 a:hover {
+	color: dimgrey;
+	text-decoration: underline;
+}
+#menu9 a.holiday:link , #menu9 a.holiday:visited {
+	color: lightgrey;
+	text-decoration: none;
+}
+#menu9 a.holiday:hover {
+	text-decoration: underline;
+}
+#menu9 a.active:link , #menu9 a.active:visited {
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+}
+#menu9 a.active:hover {
+	color: red;
+	text-decoration: underline;
+}
