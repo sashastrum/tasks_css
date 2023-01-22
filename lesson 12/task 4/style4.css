@@ -52,7 +52,7 @@ a:hover {
 	line-height: 30px;
 	padding: 0px 5px;
 }
-#menu a:hover, #menu a:visited {
+#menu a:hover, #menu a:active {
 	color: #484848;
 	background-color: #fff;
 }
