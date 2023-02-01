@@ -1,0 +1,33 @@
+#menu {
+	width: 800px;
+	margin: 10px auto;
+	border: 1px solid red;
+	padding: 20px 30px;
+	border-radius: 4%;
+}
+h1 , h2 {
+	color: saddlebrown;
+}
+.lll {
+	color: red;
+}
+.bbb {
+	color: green;
+}
+p {
+	text-align: justify;
+	font: 17px Ariel;
+}
+a:link, a:visited {
+	color: blue;
+	text-decoration: underline;
+}
+a:hover {
+	color: green;
+	text-decoration: none;
+}
+.eee {
+	text-align: right;
+	font: italic 12px Arial;
+	padding-right: 70px;
+}
