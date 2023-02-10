@@ -1,0 +1,32 @@
+#menu {
+	border: 1px solid blue;
+	width: 400px;
+	margin: 0px auto;
+	background-color: #2696E8;
+}
+#menu ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: stretch;
+
+	padding: 0px;
+	margin: 0px;
+}
+#menu li {
+	list-style-type: none;
+	text-align: left;
+	border: 1px solid blue;
+}
+#menu a {
+	padding: 10px;
+	color: white;
+	display: block;
+	text-decoration: none;
+}
+#menu li:hover {
+	background-color: white;
+}
+#menu li:hover a {
+	color: #2696E8;
+}

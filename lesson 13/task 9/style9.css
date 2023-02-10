@@ -1,0 +1,16 @@
+#menu {
+	border: 1px solid blue;
+	width: 900px;
+	height: 700px;
+	margin: 10px auto;
+}
+div {
+	border: 1px solid blue;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+	width: 200px;
+	height: 200px;
+}
