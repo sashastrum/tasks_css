@@ -1,0 +1,21 @@
+#parent {
+	width: 500px;
+	height: 400px;
+	margin: 10px auto;
+	background-color: lightseagreen;
+	position: relative;
+}
+#elem, #elem2 {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+}
+#elem {
+	left: 50px;
+	top: 50px;
+}
+#elem2 {
+	right: 50px;
+	bottom: 50px;
+}

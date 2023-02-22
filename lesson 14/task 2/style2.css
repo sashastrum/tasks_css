@@ -1,0 +1,21 @@
+body {
+	height: 100px;
+}
+#red, #blue, #green  {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 30px;
+}
+#red {
+	border: 1px solid red;
+	left: 30px;
+}
+#blue {
+	border: 1px solid blue;
+	left: 100px;
+}
+#green {
+	border: 1px solid green;
+	left: 170px;
+}

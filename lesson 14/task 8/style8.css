@@ -1,0 +1,14 @@
+#parent {
+	width: 500px;
+	height: 400px;
+	margin: 10px auto;
+	border: 1px solid green;
+}
+#elem {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	position: relative;
+	left: 100px;
+	top: 100px;
+}

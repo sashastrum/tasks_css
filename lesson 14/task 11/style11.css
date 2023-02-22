@@ -1,0 +1,39 @@
+#parent {
+	width: 500px;
+	height: 500px;
+	margin: 5px auto;
+	background-color: lightseagreen;
+	border-radius: 50%;
+	position: relative;
+}
+#elem, #elem2 {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	border-radius: 50%;
+	position: absolute;
+}
+#elem {
+	top: 70px;
+	left: 100px;
+}
+#elem2 {
+	top: 70px;
+	left: 300px;
+}
+#elem3 {
+	width: 70px;
+	height: 70px;
+	background-color: white;
+	position: absolute;
+	top: 200px;
+	left: 215px;
+}
+#elem4 {
+	width: 200px;
+	height: 20px;
+	background-color: white;
+	position: absolute;
+	top: 350px;
+	left: 150px;
+}
