@@ -1,0 +1,29 @@
+body {
+	margin: 0px;
+	color: mediumvioletred;
+}
+#text {
+	width: 600px;
+	margin: 10px auto 60px auto;
+	border: 1px solid mediumvioletred;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 20px;
+}
+#fixed {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	color: white;
+	text-align: center;
+	font-size: 21px;
+	border-top: 1px solid mediumvioletred;
+	background-color: mediumvioletred;	
+}
+h1 {
+	margin: 0px;
+	color: mediumvioletred;
+}
