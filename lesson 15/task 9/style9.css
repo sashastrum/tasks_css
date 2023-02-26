@@ -1,0 +1,33 @@
+#wrapper {
+	width: 1000px;
+	margin: 0px auto;
+	border: 1px solid black;
+}
+#header {
+	height: 200px;
+	border: 1px solid black;
+}
+#left, #right {
+	width: 200px;
+	height: 500px;
+}
+#left {
+	float: left;
+	outline: 1px solid black;
+}
+#content {
+	height: 500px;
+	outline: 1px solid black;
+	margin: 0px 200px;
+}
+#right {
+	outline: 1px solid black;
+	float: right;
+}
+#footer {
+	height: 200px;
+	border: 1px solid black;
+}
+.clearfix {
+	clear: both;
+}

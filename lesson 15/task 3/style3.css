@@ -1,0 +1,28 @@
+#wrapper {
+	width: 900px;
+	margin: 0px auto;
+	border: 1px solid black;
+}
+#header {
+	height: 200px;
+	border: 1px solid black;
+}
+#footer {
+	height: 200px;
+	border: 1px solid black;
+}
+#sidebar {
+	float: right;
+	min-width: 200px;
+	min-height: 500px;
+	outline: 1px solid black;
+}
+#content {
+	width: 700px;
+	height: 500px;
+	outline: 1px solid black;
+	float: right;
+}
+.clearfix {
+	clear: both;
+}

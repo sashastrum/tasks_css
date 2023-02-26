@@ -1,0 +1,43 @@
+#wrapper {
+	width: 1000px;
+	margin: 0px auto;
+	border: 1px solid black;
+}
+#header {
+	height: 200px;
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+#left, #right {
+	width: 200px;
+	min-height: 700px;
+}
+#left {
+	float: left;
+	margin-left: 20px;
+
+}
+#content {
+	height: 700px;
+	outline: 1px solid black;
+	margin: 0px 240px;
+}
+#right {
+	outline: 1px solid black;
+	float: right;
+	margin-right: 20px;
+}
+#footer {
+	height: 200px;
+	border: 1px solid black;
+	margin-top: 20px;
+}
+.clearfix {
+	clear: both;
+}
+.cube {
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
