@@ -1,0 +1,51 @@
+#wrapper {
+	width: 900px;
+	margin: 0px auto;
+}
+#header {
+	height: 200px;
+	background-image: url("bg.jpg");
+	position: relative;
+}
+p.site {
+	font-size: 27px;
+	font-weight: bold;
+	color: white;
+	position: absolute;
+	top: 10px;
+	left: 190px;
+}
+p.title {
+	color: white;
+	position: absolute;
+	top: 50px;
+	left: 210px;
+}
+#left {
+	width: 200px;
+	float: left;
+	margin-right: 15px;
+	font: 13px Ariel;
+	text-align: justify;
+
+}
+img.left {
+	width: 200px;
+	height: 100px;
+}
+#content {
+	width: 600px;
+	height: 700px;
+	float: left;
+}
+p {
+	text-align: justify;
+}
+img {
+	width: 600px;
+}
+.ending {
+	margin-top: 50px;
+	text-align: center;
+	font: 13px Ariel;
+}
